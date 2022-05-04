@@ -22,6 +22,9 @@ Then, make sure to install all the required Python modules using `pip`:
 pip install -r requirements.txt
 ```
 ## Using Python Selenium with Pytest
+### Install pytest
+
+**NOTE**: This step can be skipped if you've cloned the repository and install all Python dependencies.
 
 To run the test use pytest -v Main_part/test_assertions.py
 
