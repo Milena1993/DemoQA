@@ -1,9 +1,7 @@
-from numpy import exp
 from selenium import webdriver
 from base_page import Base
 from functions import InputFields
 from test_data import TestData
-from time import sleep
 import pytest
 
 
