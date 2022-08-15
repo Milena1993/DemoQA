@@ -31,7 +31,7 @@ To run the test use pytest -v Main_part/test_assertions.py
 ### Execute All Tests
 
 ```shell
-pytest -n 4 
+python -m pytest -n 4 
 ```
 
 Hope you enjoyed my work 
